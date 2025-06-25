@@ -4,7 +4,7 @@
 An interactive hotel booking web app with user authentication, room listings, and review features.
 
 ### 🚀 Live Site
-👉 [Visit Live App](https://your-live-link.com)
+👉 [Visit Live App]( https://paul-96-shimu.github.io/coffee-store-server/)
 
 ## 🧰 Tech Stack
 - React.js
